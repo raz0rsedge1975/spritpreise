@@ -1,0 +1,173 @@
+{
+  "station_id": 45991,
+  "station_name": "Shell Dessau-Roßlau (Kiefernweg)",
+  "source": "clever-tanken.de",
+  "generated_at": "2026-06-18T08:20:26.329553+00:00",
+  "days": [
+    {
+      "date": "2026-06-04",
+      "e10": {
+        "vormittag": 1.859,
+        "nachmittag": 2.089
+      },
+      "diesel": {
+        "vormittag": null,
+        "nachmittag": 2.129
+      }
+    },
+    {
+      "date": "2026-06-05",
+      "e10": {
+        "vormittag": 1.849,
+        "nachmittag": 2.079
+      },
+      "diesel": {
+        "vormittag": 1.829,
+        "nachmittag": 2.119
+      }
+    },
+    {
+      "date": "2026-06-06",
+      "e10": {
+        "vormittag": null,
+        "nachmittag": 2.069
+      },
+      "diesel": {
+        "vormittag": 1.809,
+        "nachmittag": 2.099
+      }
+    },
+    {
+      "date": "2026-06-07",
+      "e10": {
+        "vormittag": null,
+        "nachmittag": 2.069
+      },
+      "diesel": {
+        "vormittag": 1.809,
+        "nachmittag": 2.099
+      }
+    },
+    {
+      "date": "2026-06-08",
+      "e10": {
+        "vormittag": null,
+        "nachmittag": 2.069
+      },
+      "diesel": {
+        "vormittag": 1.829,
+        "nachmittag": 2.109
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "e10": {
+        "vormittag": 1.839,
+        "nachmittag": 2.079
+      },
+      "diesel": {
+        "vormittag": 1.839,
+        "nachmittag": 2.119
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "e10": {
+        "vormittag": 1.819,
+        "nachmittag": 2.049
+      },
+      "diesel": {
+        "vormittag": 1.799,
+        "nachmittag": 2.089
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "e10": {
+        "vormittag": null,
+        "nachmittag": 2.069
+      },
+      "diesel": {
+        "vormittag": null,
+        "nachmittag": 2.099
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "e10": {
+        "vormittag": null,
+        "nachmittag": 2.079
+      },
+      "diesel": {
+        "vormittag": 1.799,
+        "nachmittag": 2.099
+      }
+    },
+    {
+      "date": "2026-06-13",
+      "e10": {
+        "vormittag": null,
+        "nachmittag": 2.049
+      },
+      "diesel": {
+        "vormittag": null,
+        "nachmittag": 2.039
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "e10": {
+        "vormittag": 1.869,
+        "nachmittag": 2.049
+      },
+      "diesel": {
+        "vormittag": 1.789,
+        "nachmittag": 2.039
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "e10": {
+        "vormittag": 1.869,
+        "nachmittag": 2.029
+      },
+      "diesel": {
+        "vormittag": null,
+        "nachmittag": 2.019
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "e10": {
+        "vormittag": 1.839,
+        "nachmittag": 2.009
+      },
+      "diesel": {
+        "vormittag": 1.769,
+        "nachmittag": 1.999
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "e10": {
+        "vormittag": 1.829,
+        "nachmittag": 2.009
+      },
+      "diesel": {
+        "vormittag": 1.749,
+        "nachmittag": 1.999
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "e10": {
+        "vormittag": 1.829,
+        "nachmittag": null
+      },
+      "diesel": {
+        "vormittag": 1.739,
+        "nachmittag": null
+      }
+    }
+  ]
+}
