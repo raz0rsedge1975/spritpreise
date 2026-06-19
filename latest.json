@@ -2,7 +2,7 @@
   "station_id": 45991,
   "station_name": "Shell Dessau-Roßlau (Kiefernweg)",
   "source": "clever-tanken.de",
-  "generated_at": "2026-06-18T12:00:06.719576+00:00",
+  "generated_at": "2026-06-19T07:00:07.260452+00:00",
   "days": [
     {
       "date": "2026-06-04",
@@ -167,6 +167,17 @@
       "diesel": {
         "vormittag": 1.739,
         "nachmittag": 1.959
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "e10": {
+        "vormittag": null,
+        "nachmittag": 1.829
+      },
+      "diesel": {
+        "vormittag": null,
+        "nachmittag": 1.729
       }
     }
   ]
