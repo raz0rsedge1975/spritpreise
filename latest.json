@@ -2,7 +2,7 @@
   "station_id": "1f499b97-77cf-4bfa-a9f4-7a6cb8ce516b",
   "station_name": "Shell Dessau-Roßlau (Kiefernweg)",
   "source": "Tankerkönig",
-  "generated_at": "2026-06-23T07:00:34.487935+00:00",
+  "generated_at": "2026-06-23T10:10:22.842442+00:00",
   "days": [
     {
       "date": "2026-06-04",
@@ -217,11 +217,11 @@
       "date": "2026-06-23",
       "e10": {
         "vormittag": 1.849,
-        "nachmittag": null
+        "nachmittag": 2.009
       },
       "diesel": {
         "vormittag": 1.759,
-        "nachmittag": null
+        "nachmittag": 1.999
       }
     }
   ]
